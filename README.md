@@ -8,3 +8,9 @@ The goal is to be able to:
 - [ ] determine if it is appropriate for employees to keep track of their repositories they were once members of
 - [ ] determine if players can keep a list of the worlds they ever contributed to, with multiple emails on file
 - [ ] determine if we can combine player's commits made under different email addresses in the same repo
+
+## Authentication options
+- [ ] email link (for working, public emails)
+- [ ] token commits to the repo
+- [ ] signed commits
+- [ ] git provider's (e.g. Github or Gitlab) identity APIs
