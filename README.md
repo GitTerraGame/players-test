@@ -12,5 +12,6 @@ The goal is to be able to:
 ## Authentication options
 - [ ] email link (for working, public emails)
 - [ ] token commits to the repo
+- [ ] config enttries combining identities for single player
 - [ ] signed commits
 - [ ] git provider's (e.g. Github or Gitlab) identity APIs
